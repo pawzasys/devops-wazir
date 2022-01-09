@@ -1,1 +1,2 @@
 sample note from feaure checkin
+changed in remote repo
